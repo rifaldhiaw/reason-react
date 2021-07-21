@@ -224,6 +224,8 @@ module Props = {
     [@bs.optional]
     autoPlay: bool,
     [@bs.optional]
+    playsInline: bool,
+    [@bs.optional]
     challenge: string,
     [@bs.optional]
     charSet: string,
